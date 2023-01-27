@@ -92,7 +92,7 @@ function addFunction() {
 
     document.getElementById("joker").innerHTML = "In " + year + " you will be in " + country + " with your beautiful wife " + wife + " and " + children + " children!!!";
 
-    document.querySelector(".joker__wrapper").style.display = "block";
+    document.querySelector(".joker__wrapper").style.display = "flex";
 }
 
 
